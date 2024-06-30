@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Deep_fake_Django/models/model_89_acc_40_frames_final_data.pt filter=lfs diff=lfs merge=lfs -text
+Deep_fake_Django/models/model_84_acc_10_frames_final_data.pt filter=lfs diff=lfs merge=lfs -text
