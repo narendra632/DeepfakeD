@@ -2,6 +2,9 @@
 
 This project focuses on detecting deepfake videos using a combination of ResNext and LSTM networks. Deepfakes are manipulated videos that use artificial intelligence to replace a person's likeness in a video with someone else's. By leveraging machine learning techniques, we aim to identify and flag such deceptive content.
 
+## Demo Video
+https://drive.google.com/file/d/1MvhNoravJfQJP0pLifIenrEt9kPgCSRE/view?usp=sharing
+
 ## Requirements:
 
 - **CUDA version >= 10.0 for GPU**: To take advantage of GPU acceleration during model training and inference, ensure that you have CUDA installed on your system. A compatible version is required for optimal performance.
